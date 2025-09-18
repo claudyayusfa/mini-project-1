@@ -5,7 +5,7 @@ print("--------------------------------")
 print("Reservasi Kursi Bioskop")
 print("-----------------------")
 
-# List
+
 reservasi_kursi = []
 
 while True:
@@ -47,3 +47,4 @@ while True:
 
     else:
         print("Menu tidak tersedia")
+
